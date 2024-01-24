@@ -9,10 +9,11 @@
 
 <h3>What you'll learn? 📊📈👨🏻‍💻🤖🐍 </h3>
 <h4><pre>
-  🔸 Python Basics including Types, Expressions, and Variables.
-  🔸 Data Structures in Python including Lists, Tuples, Dictionaries, Sets.
-  🔸 Python programming using Branching, Loops, Functions, Objects & Classes.
-  🔸 Working with data in Python using Pandas and Numpy libraries.
+  🔸 Master the most up-to-date practical skills and knowledge that data scientists use in their daily roles.
+  🔸 Learn the tools, languages, and libraries used by professional data scientists, including Python and SQL.
+  🔸 Import and clean data sets, analyze and visualize data, and build machine learning models and pipelines.
+  🔸 Apply your new skills to real-world projects and build a portfolio of data projects that showcase your proficiency to employers.
+
 </h4></pre>
 
 ## About this course
