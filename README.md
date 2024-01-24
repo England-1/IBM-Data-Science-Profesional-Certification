@@ -3,9 +3,9 @@
 ---
 * _Offered By **IBM Skills Network** on **Coursera**_.
 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UY67RTQUPHMA/CERTIFICATE_LANDING_PAGE~UY67RTQUPHMA.jpeg" alt="course accomplishment certificate"/>
+#<img #src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UY67RTQUPHMA/CERTIFICATE_LANDING_PAGE~UY67RTQ#UPHMA.jpeg" alt="course accomplishment certificate"/>
 
-[Verify here!](https://coursera.org/verify/UY67RTQUPHMA)
+#[Verify here!](https://coursera.org/verify/UY67RTQUPHMA)
 
 <h3>What you'll learn? 📊📈👨🏻‍💻🤖🐍 </h3>
 <h4><pre>
