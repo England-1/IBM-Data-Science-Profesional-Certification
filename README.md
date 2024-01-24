@@ -1,6 +1,6 @@
-## [IBM Data Science Professional Certification]
-[https://www.coursera.org/learn/python-for-applied-data-science-ai](https://www.coursera.org/professional-certificates/ibm-data-science]
-
+#### [IBM Data Science Professional Certification]
+#### [https://www.coursera.org/learn/python-for-applied-data-science-ai](https://www.coursera.org/professional-certificates/ibm-data-science]
+---
 * _Offered By **IBM Skills Network** on **Coursera**_.
 
 <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UY67RTQUPHMA/CERTIFICATE_LANDING_PAGE~UY67RTQUPHMA.jpeg" alt="course accomplishment certificate"/>
