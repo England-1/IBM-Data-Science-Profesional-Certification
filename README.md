@@ -1,4 +1,4 @@
-## [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) 🔥
+## [IBM Data Science Professional Certification][https://www.coursera.org/learn/python-for-applied-data-science-ai](https://www.coursera.org/professional-certificates/ibm-data-science]
 
 * _Offered By **IBM Skills Network** on **Coursera**_.
 
