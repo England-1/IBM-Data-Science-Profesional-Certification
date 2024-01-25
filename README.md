@@ -3,8 +3,8 @@
 # IBM: Data Science Professional Certification
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="200" width="450">
 
-INSTRUCTORS
-#### Instructors: Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo 
+## Instructors
+#### *Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo*
 
 This repository contains resources and solution of the quizzes given and asked in IBM Data Science Professional Certification.
 
