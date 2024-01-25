@@ -8,11 +8,9 @@
 
 ##### **This repository contains resources and solution of the quizzes given and asked in IBM Data Science Professional Certification.**
 
-Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
+#### Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
 
-#### There are 10 Courses in this Professional Certificate
-
-The courses enlisted in this specialization are as follows:
+#### The 10 courses enlisted in this professional certificate are as follows:
 
 - [x] __[What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)__
 
