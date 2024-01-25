@@ -29,11 +29,10 @@ The courses enlisted in this specialization are as follows:
 
 - [x] __Data Visualization with Python [Go To Course](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)__
 
-![ViewCount](https://views.whatilearened.today/views/github/england-1/IBM_Data_Science_Professional_Certification.svg?cache=remove)
-
-
 - [x] __Machine Learning with Python [Go To Course](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)__
 
 - [x] __Applied Data Science Capstone [Go To Course](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)__
 
 <br>
+
+![ViewCount](https://views.whatilearened.today/views/github/england-1/IBM_Data_Science_Professional_Certification.svg?cache=remove)
