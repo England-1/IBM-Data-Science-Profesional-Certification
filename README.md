@@ -1,5 +1,3 @@
-![ViewCount](https://views.whatilearened.today/views/github/england-1/IBM_Data_Science_Professional_Certification.svg?cache=remove)
-
 # IBM: Data Science Professional Certification
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="250" width="400"> <img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="Smiley face" height="250" width="250">
@@ -30,6 +28,9 @@ The courses enlisted in this specialization are as follows:
 - [x] __Data Analysis with Python [Go To Course](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science)__
 
 - [x] __Data Visualization with Python [Go To Course](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)__
+
+![ViewCount](https://views.whatilearened.today/views/github/england-1/IBM_Data_Science_Professional_Certification.svg?cache=remove)
+
 
 - [x] __Machine Learning with Python [Go To Course](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)__
 
