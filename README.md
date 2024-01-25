@@ -8,9 +8,7 @@
 
 ##### **This repository contains notebooks and notes from the IBM Data Science Professional Certification.**
 
-#### Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
-
-#### The 10 courses enlisted the [IBM Data Science Professional Certification](https://www.coursera.org/professional-certificates/ibm-data-science) offered by Coursera are as follows:
+#### The 10 courses enlisted the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) offered by Coursera are as follows:
 
 - [x] __[What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)__
 
