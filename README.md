@@ -14,7 +14,7 @@ Specialization Course Link: [https://www.coursera.org/professional-certificates/
 
 The courses enlisted in this specialization are as follows:
 
-#### - [x] __What is Data Science? [Go To Course](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)__
+- [x] __What is Data Science? [Go To Course](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)__
 
 - [x] __Tools for Data Science [Go To Course](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)__
 
