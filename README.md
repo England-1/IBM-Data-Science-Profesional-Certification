@@ -10,7 +10,7 @@
 
 #### Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
 
-#### The 10 courses enlisted in this professional certificate are as follows:
+#### The 10 courses enlisted in this [professional certificate](https://www.coursera.org/professional-certificates/ibm-data-science) are as follows:
 
 - [x] __[What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)__
 
