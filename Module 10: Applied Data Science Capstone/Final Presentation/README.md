@@ -1,20 +1,18 @@
-What you'll learn
-Demonstrate proficiency in data science and machine learning techniques using a real-world data set and prepare a report for stakeholders   
 
-Apply your skills to perform data collection, data wrangling, exploratory data analysis, data visualization model development, and model evaluation
 
-Write Python code to create machine learning models including support vector machines, decision tree classifiers, and k-nearest neighbors  
-
-Evaluate the results of machine learning models for predictive analysis, compare their strengths and weaknesses and identify the optimal model   
-
-Skills you'll gain
-Category: Data Science
-Data Science
-Category: Data Analysis
-Data Analysis
-Category: CRISP-DM
-CRISP-DM
-Category: Methodology
-Methodology
-Category: Data Mining
-Data Mining
+#### Grading Criteria:
+##### - Uploaded the URL of your GitHub repository including all the completed notebooks and Python files (1 pt)
+##### - Uploaded your completed presentation in PDF format (1 pt)
+##### - Completed the required Executive Summary slide (1 pt)
+##### - Completed the required Introduction slide (1 pt)
+##### - Completed the required data collection and data wrangling methodology related slides (1 pt)
+##### - Completed the required EDA and interactive visual analytics methodology related slides (3 pts)
+##### - Completed the required predictive analysis methodology related slides (1 pt)
+##### - Completed the required EDA with visualization results slides (6 pts)
+##### - Completed the required EDA with SQL results slides (10 pts)
+##### - Completed the required interactive map with Folium results slides (3 pts)
+##### - Completed the required Plotly Dash dashboard results slides (3 pts)
+##### - Completed the required predictive analysis (classification) results slides (6 pts)
+##### - Completed the required Conclusion slide (1 pts)
+##### - Applied your creativity to improve the presentation beyond the template (1 pts)
+##### - Displayed any innovative insights (1 pts)
