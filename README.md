@@ -36,8 +36,3 @@ The courses enlisted in this specialization are as follows:
 - [x] __Applied Data Science Capstone [Go To Course](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)__
 
 <br>
-
-The course is a paid Course but if you can't afford that, then there is **Finacial Aid** option
-You can apply for that by answering some questions 
-
-Check this answers so you will get a rough idea : [Financial Aid Answers](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification/blob/main/Financial%20Aid.pdf)
